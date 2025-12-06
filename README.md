@@ -32,7 +32,7 @@ numba
 
 
 1. Download the Project: 
-git clone ""
+git clone "https://github.com/Qasid2004/Parallel_Feature_Extraction"
 cd Parallel-Feature-Extraction
 
 2. Create Virtual Environment (Cross-Platform):
